@@ -28,7 +28,7 @@ public class FillerCreep extends FModel<FView> {
         super();
         init();
     }
-
+    
     FillerCreep(int width, int height) {
         super();
         this.width = width;
